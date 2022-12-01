@@ -8,4 +8,8 @@ target/
 .idea/
 .eclipse
 .*
+*.config
+*.jupyter
+*.local
+*.npm
 
