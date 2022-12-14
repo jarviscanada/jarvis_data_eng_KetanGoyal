@@ -9,18 +9,19 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your
-summary: I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh university in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Before attending university I was fascinated with technology and opted for mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst title in an MNC in India based out of California serving North American clients. Currently working at Jarvis as a Business Analyst. During my tenure, I prepared documentation for many projects, handled signoffs, held kickoff meetings, and created wireframes for UI/UX while managing changes and risks in a project. I was also responsible for making use-cases, data flow diagrams for better visual understanding and simultaneously collaborated with multiple Team Leads working with different technologies to deliver projects successfully.
+summary: I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh University in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Prior to attending university I was fascinated with technology and focused on mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst role at Infowiz  in India based out of California working with North American clients. I?m currently working at Jarvis as a Business Analyst where I am responsible for preparing documentation for many projects, handling signoffs, holding kickoff meetings, and creating wireframes for UI/UX while managing changes and risks in a project. I am also responsible for defining use-cases, designing visual data flow diagrams for better team alignment on requirements and  collaborating with multiple Team Leads working on different technologies to deliver projects successfully.
 
 skills:
   # Please include
   #     1)soft skills (e.g. elicitation, communication, collaboration, interpersonal, etc )
   #     2) business tools (such as Excel, Viso, etc.)
   Business Skills:
-    - Documentat Elicitation (BRD, SRD, DFDs)
-    - Channel Management (making sure the flow of information is channeled properly in a timely manner)
-    - Understanding clients' vision and how to prioritize different clients
-    - Managing risks, clients' expectations and deadlines
-    - Advanced PowerPoint and Excel skills (pivot-tables, lookups, advanced formulas)
+    - documentat Elicitation (BRD, SRD, DFDs)
+    - channel Management (making sure the flow of information is channeled properly in a timely manner)
+    - understanding clients' vision and how to prioritize different clients
+    - managing risks, clients' expectations and deadlines
+    - advanced PowerPoint and Excel skills (pivot-tables, lookups, advanced formulas)
+    - agile methodology
   # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
   # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
   Technical Skills:
@@ -32,6 +33,9 @@ skills:
     - Data Modeling/Mapping
     - Data Analytics
     - Tableau
+    - Python
+    - Jupyter Notebook
+    - Excel
 
 # List of Jarvis projects
 # Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
@@ -40,13 +44,14 @@ jarvis_projects:
     git_url: "/linux_sql"
     # Focus on BSA work instead of development work
     # Include the following keywords: BRD, SRD, Elicitation, stakeholder, requirement, analysis, RDBMS, SQL, data modeling, SLA
-    description: The goal of the project was to collect and analyze the hardware usage data to make future business decisions.To achieve this I developed a system to monitor hardware usage of server nodes in real time using Docker, stored the data in SQL tables using PostgreSQL, did requirement elicitation, and created BRD and SRD for the project. Developed architecture diagrams and data flow diagrams for a better and high-level visual understanding of the project. The project was managed using agile methodology. Also developed a schedule to complete deliverables for signoffs. Conducted daily scrum meetings, managed sprints and kept all the stakeholders updated on time. The project was deployed it using bash and the agent program scheduled using cron. Source code was managed using Git.
+    description: The goal of the project was to collect and analyze the hardware usage data to make future business decisions about increasing or decreasing nodes.To achieve this I developed a system to monitor hardware usage of server nodes in real time using Docker, stored the data in SQL tables using PostgreSQL, did requirement elicitation, and created BRD and SRD for the project. Developed architecture diagrams and data flow diagrams for a better and high-level visual understanding of the project. The project was managed using agile methodology. Also developed a schedule to complete deliverables for signoffs. Conducted daily scrum meetings, managed sprints and kept all the stakeholders updated on time. Source code was managed using Git.
 
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
     # Focus on BSA work instead of development work
     # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
-    description: Goal of this project was to analyze the data from a gift shop and help them understand their customers and devise a marketing strategy based on the inferences. For this, I conducted meetings with the stakeholders to gather requirements and created Business requirement document. Also a schedule to complete deliverables for signoffs was developed and daily scrum meetings, sprints(bi-weekly) were held to kept to keep track and update all the stakeholders  in a timely manner. Gift shop was able to provide the data dump in a file and it was loaded on Jarvis warehouse running on PostgreSQL. Data modification was done to better handle and draw inferences from it. RFM analysis was done to categorize the customers and devise a marketing strategy to increase revenue.
+    description: The goal of this project was to analyze the data from a gift shop and help the business understand their customers and devise a marketing strategy based on the inferences to increase revenue by generating more sales. For this, I conducted meetings with the stakeholders to gather requirements and created a Business requirements document. Developed a schedule to track project execution using agile to complete deliverables for signoffs. Daily scrum meetings, sprints(bi-weekly) were conducted and communicated with stakeholders regularly. Gift shop was able to provide the customer data in a file and it was loaded on Jarvis warehouse running on PostgreSQL. Data modification was done to better handle like adding new columns and changing datatypes. RFM analysis was done to categorize the customers and devise a marketing strategy to increase revenue.
+
 
 # List of personal or academic projects
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -55,7 +60,8 @@ highlighted_projects:
   - name: "Ride Share App like uber"
     #URL is optional
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Conducted meetings with stakeholders to gather business requirements. Created BRD, FRD, Use cases, Data Flow Diagrams, and wireframes for the project. Also conducted meetings with Team leads of different Technologies to understand the feasibility and complexity of the project in the beginning phase to better design the schedule for completing deliverables and getting signoffs from the clients. Managed project scope and client expectations to mitigate risks. Also researched different aspects of the project to reduce client costs and help the client develop a future plan if they would want to make changes in the future and thus generating potential revenue for our company.
+    description: Conducted meetings with stakeholders to gather business requirements. Created BRD, FRD, Use cases, Data Flow Diagrams, and wireframes for the project. Also collaborated with Team leads working on different technologies to understand the feasibility and complexity of the project in the beginning phase to create a schedule for completing deliverables on time and getting signoffs from the clients while managing project scope and client expectations to mitigate risks. Researched different third party modules to be added to the project to reduce client costs like which payment gateway to integrate.
+
 
 # List of professional experience
 # Please focus on transferable skills, such as soft skills and data related skills
@@ -66,7 +72,7 @@ professional_experience:
     duration: "2022-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
-    description: Worked on projects creating BRDs, SRDs and requirement elicitation along with coding, implementation and testing for Linux  Cluster Resource Monitoring App and Python Data Analytics. Also analyzed these two projects to make decisions to help improve their operations, reduce their operating costs and be able to generate more revenue by analyzing data and generating graphs to better visualize and make comparisons.
+    description: Worked on projects creating BRDs, SRDs and requirement elicitation along with coding, implementation and testing for Linux Cluster Resource Monitoring App and Python Data Analytics. Also analyzed these two projects to make decisions to help improve efficiency of their operations, reduce their operating costs and be able to generate more revenue by analyzing data and generating graphs to better visualize and make comparisons.
 
   - title: "Business Analyst"
     company: "Infowiz"
