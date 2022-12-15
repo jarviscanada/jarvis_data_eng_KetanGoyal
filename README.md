@@ -4,7 +4,7 @@ I completed my Bachelor of Engineering degree in Computer Science Engineering at
 
 ## Skills
 
-**Business Skills:** requirement elicitation (BRD, SRD, DFDs), channel management (making sure the flow of information is channeled properly in a timely manner), understanding clients' vision and how to prioritize different clients, managing risks, clients' expectations and deadlines, advanced PowerPoint and Excel skills (pivot-tables, lookups, advanced formulas), agile methodology
+**Business Skills:** documentation elicitation (BRD, SRD, DFDs), channel management (making sure the flow of information is channeled properly in a timely manner), understanding clients' vision and how to prioritize different clients, managing risks, clients' expectations and deadlines, advanced PowerPoint and Excel skills (pivot-tables, lookups, advanced formulas), agile methodology
 
 **Technical Skills:** RDBMS/SQL, Git, Linux CLI, C language, Docker, Data Modeling/Mapping, Data Analytics, Tableau, Python, Jupyter Notebook, Excel
 
