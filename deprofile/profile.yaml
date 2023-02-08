@@ -5,9 +5,9 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal
 
 summary: I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh University in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Prior to attending university I was fascinated with technology and focused on mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst role at Infowiz in India (based out of California) working with North American clients.
   
-  I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natural intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
+  I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, SQL, Python and Hadoop. I have an eye for detail and natural intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
   
-  I sincerely hope that my skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
+  I sincerely hope that my skills, passion, and work shown here stand out to you. If so, I look forward to speaking with you.
 
 skills:
 
@@ -18,7 +18,7 @@ skills:
     - Git
     - C language
     - Docker
-    - Advanced Excel skills (pivot-tables, lookups, advanced formulas)
+    - Advanced Excel skills (pivot tables, lookups, advanced formulas)
     - UI/UX
     - Wireframing
 
@@ -39,7 +39,7 @@ skills:
 jarvis_projects:
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
-    description: The goal of the project was to collect and analyze the hardware usage data to make future business decisions about increasing or decreasing nodes in a Linux cluster. To achieve this I developed a system to monitor hardware usage of server nodes in real time using Docker, wrote bash script to collect static server data and run time hardware usage data using Linus CLI and stored the data in SQL tables using PostgreSQL.
+    description: The goal of the project was to collect and analyze the hardware usage data to make future business decisions about increasing or decreasing nodes in a Linux cluster. To achieve this I developed a system to monitor hardware usage of server nodes in real time using Docker, wrote a bash script to collect static server data and run time hardware usage data using Linus CLI and stored the data in SQL tables using PostgreSQL.
 
 
   - name: "Python Data Analytics"
@@ -58,7 +58,7 @@ professional_experience:
   - title: "Data Engineer"
     company: "Jarvis"
     duration: "2022-present"
-    description: Developed, implemented and tested various projects covering many technologies like Docker, SQL, Python, Linux CLI, Jupyter Notebook, servers, scripting etc.. with agile methodology. Lead and collaborated in daily scrum meetings, sprint planning and reviews, managed scrum boards and conducted code reviews with senior developers to ensure code quality and standarads.
+    description: Developed, implemented and tested various projects covering many technologies like Docker, SQL, Python, Linux CLI, Jupyter Notebook, servers and scripting with agile methodology. Lead and collaborated in daily scrum meetings, sprint planning and reviews, managed scrum boards and conducted code reviews with senior developers to ensure code quality and standarads.
 
   - title: "Business Analyst"
     company: "Infowiz"
