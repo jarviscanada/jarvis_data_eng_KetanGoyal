@@ -1,0 +1,100 @@
+# Preferred name (Characters only)
+name: "Ketan Goyal"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal
+
+summary: I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh University in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Prior to attending university I was fascinated with technology and focused on mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst role at Infowiz in India (based out of California) working with North American clients.
+  
+  I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natual intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
+  
+  I sincerely hope that the skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
+
+skills:
+
+  proficient:
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - C language
+    - Docker
+    - Advanced Excel skills (pivot-tables, lookups, advanced formulas)
+    - UI/UX
+    - Wireframing
+
+  competent:
+    - Jupyter Notebook
+    - documentation elicitation (BRD, SRD, DFDs)
+    - Agile Methodology
+    - Python
+    - Advanced PowerPoint & Word
+
+  familiar:
+    - Hadoop
+    - Visual Studio Code
+    - Java
+    - HTML/CSS
+    - Spark/Scala
+
+jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    description: The goal of the project was to collect and analyze the hardware usage data to make future business decisions about increasing or decreasing nodes in a Linux cluster. To achieve this I developed a system to monitor hardware usage of server nodes in real time using Docker, wrote bash script to collect static server data and run time hardware usage data using Linus CLI and stored the data in SQL tables using PostgreSQL.
+
+
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    description: The goal of this project was to analyze the data from a gift shop and help the business understand their customers and devise a marketing strategy to increase revenue by generating more sales. The Gift shop was able to provide the customer data in a file and it was loaded on Jarvis warehouse running on PostgreSQL. Data schema modifications were done to allow for more efficient expansion and extension of the dataset. RFM analysis was done using python in Jupyter notebook to categorize the customers and devise a marketing strategy to increase revenue.
+
+highlighted_projects:
+
+  - name: "Ride Share App like uber"
+
+    description: Conducted meetings with stakeholders to gather business requirements. Created BRD, FRD, Use cases, Data Flow Diagrams, and wireframes for the project. Also collaborated with Team leads working on different technologies to understand the feasibility and complexity of the project in the beginning phase to create a schedule for completing deliverables on time and getting signoffs from the clients while managing project scope and client expectations to mitigate risks. Researched different third party modules to be added to the project to reduce client costs like which payment gateway to integrate.
+
+
+professional_experience:
+
+  - title: "Data Engineer"
+    company: "Jarvis"
+    duration: "2022-present"
+    description: Developed, implemented and tested various projects covering many technologies like Docker, SQL, Python, Linux CLI, Jupyter Notebook, servers, scripting etc.. with agile methodology. Lead and collaborated in daily scrum meetings, sprint planning and reviews, managed scrum boards and conducted code reviews with senior developers to ensure code quality and standarads.
+
+  - title: "Business Analyst"
+    company: "Infowiz"
+    duration: "2016-2017"
+    description: Conducted stakeholder interviews to gather business requirements, and create BRDs and FRDs for these projects. Hold meetings with Team leads of different technologies in conjunction to better understand the project and then define project scope, and develop project deliverable schedule. Create wireframes for UI/UX for different platforms(mobile app/back end). Hold daily scrum meetings with team members and sprint meetings. Get feedback and signoffs from clients after every deliverable and conduct client interviews after project delivery. Stay in touch with the client after project completion to provide support.
+
+
+education:
+  - school_name: "Chandigarh University"
+    duration: "2012-2016"
+    degree: "Bachelor's Degree"
+    department: "Computer Science Engineering"
+    # optional
+    awards_achievements:
+      - "GPA: 7.0/10.0"
+
+  - school_name: "Conestoga College"
+    duration: "2018-2019"
+    degree: "Post Graduate Diploma"
+    department: "Information Technology Business Analysis"
+    awards_achievements:
+      - "GPA: 3.5/4.0"
+      - "Dean's honour list"
+
+#Optional section
+others:
+  #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Project Management Foundations-Lynda.com"
+      - "Project Management simplified-Lynda.com"
+
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Reading about Finance and Tech"
+      - "Cooking and Gym"
+      - "Visiting new places and trying new and different things"
+      - Volunteering
