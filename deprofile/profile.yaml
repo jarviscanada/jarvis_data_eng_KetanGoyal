@@ -5,9 +5,9 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal
 
 summary: I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh University in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Prior to attending university I was fascinated with technology and focused on mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst role at Infowiz in India (based out of California) working with North American clients.
   
-  I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natual intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
+  I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natural intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
   
-  I sincerely hope that the skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
+  I sincerely hope that my skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
 
 skills:
 
@@ -44,7 +44,7 @@ jarvis_projects:
 
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
-    description: The goal of this project was to analyze the data from a gift shop and help the business understand their customers and devise a marketing strategy to increase revenue by generating more sales. The Gift shop was able to provide the customer data in a file and it was loaded on Jarvis warehouse running on PostgreSQL. Data schema modifications were done to allow for more efficient expansion and extension of the dataset. RFM analysis was done using python in Jupyter notebook to categorize the customers and devise a marketing strategy to increase revenue.
+    description: The goal of this project was to analyze the data from a gift shop and help the business understand its customers and devise a marketing strategy to increase revenue by generating more sales. The Gift shop was able to provide the customer data in a file and it was loaded into a Jarvis data warehouse running on PostgreSQL. Data schema modifications were done to allow for more efficient expansion and extension of the dataset. RFM analysis was done using python in Jupyter notebook to categorize the customers and devise a marketing strategy to increase revenue.
 
 highlighted_projects:
 

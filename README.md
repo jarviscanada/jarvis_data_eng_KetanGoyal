@@ -1,10 +1,8 @@
 # Ketan Goyal . Jarvis Consulting
 
 I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh University in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Prior to attending university I was fascinated with technology and focused on mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst role at Infowiz in India (based out of California) working with North American clients.
-
-I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natual intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
-
-I sincerely hope that the skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
+I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natural intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
+I sincerely hope that my skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
 
 ## Skills
 
@@ -21,7 +19,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal
 
 **Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal/tree/master/linux_sql)]: The goal of the project was to collect and analyze the hardware usage data to make future business decisions about increasing or decreasing nodes in a Linux cluster. To achieve this I developed a system to monitor hardware usage of server nodes in real time using Docker, wrote bash script to collect static server data and run time hardware usage data using Linus CLI and stored the data in SQL tables using PostgreSQL.
 
-**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal/tree/master/python_data_anlytics)]: The goal of this project was to analyze the data from a gift shop and help the business understand their customers and devise a marketing strategy to increase revenue by generating more sales. The Gift shop was able to provide the customer data in a file and it was loaded on Jarvis warehouse running on PostgreSQL. Data schema modifications were done to allow for more efficient expansion and extension of the dataset. RFM analysis was done using python in Jupyter notebook to categorize the customers and devise a marketing strategy to increase revenue.
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_KetanGoyal/tree/master/python_data_anlytics)]: The goal of this project was to analyze the data from a gift shop and help the business understand its customers and devise a marketing strategy to increase revenue by generating more sales. The Gift shop was able to provide the customer data in a file and it was loaded into a Jarvis data warehouse running on PostgreSQL. Data schema modifications were done to allow for more efficient expansion and extension of the dataset. RFM analysis was done using python in Jupyter notebook to categorize the customers and devise a marketing strategy to increase revenue.
 
 
 ## Highlighted Projects
