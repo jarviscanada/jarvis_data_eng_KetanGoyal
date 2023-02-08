@@ -1,7 +1,9 @@
 # Ketan Goyal . Jarvis Consulting
 
 I completed my Bachelor of Engineering degree in Computer Science Engineering at Chandigarh University in India and a Post-graduation diploma in Business Analysis from Conestoga College, Kitchener, Canada. Prior to attending university I was fascinated with technology and focused on mathematics and science in high school. Technical training and natural business acumen helped me get a Business Analyst role at Infowiz in India (based out of California) working with North American clients.
+
 I'm currently working at Jarvis as a Data Engineer. Here I have been working in a team in an Agile environment working on projects like Linux, Sql, Python and Hadoop. I have an eye for detail and natual intellect in coding. I am very experimental and strive for perfection in my projects by following best practices.
+
 I sincerely hope that the skills, passion and work shown here stands out to you. If so, I look forward to speaking with you.
 
 ## Skills
